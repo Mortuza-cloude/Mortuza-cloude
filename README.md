@@ -1,5 +1,79 @@
-# 💫 About Me:
-I’m Mortuza Rasel, a Network & IT Support Engineer with experience in IT support, networking, system operations, and technical troubleshooting.<br>I have hands-on experience with network infrastructure, PC setup and kitting, hardware and software troubleshooting, Active Directory, Microsoft 365, Intune, DNS, and TCP/IP.<br>Currently, I’m expanding my programming and development skills with Python, Object-Oriented Programming, SQL, and Data Structures & Algorithms. I enjoy learning new technologies and building practical projects to strengthen my technical skills.<br>My current career focus is to grow as an IT Support / System Engineer while developing stronger skills in networking, infrastructure, automation, and programming.
+Hi, I'm Mortuza Rasel 👋
+Network & IT Support Engineer
+
+I’m an IT professional with experience in IT Support, Networking, System Operations, and Technical Troubleshooting. I enjoy solving technical problems, working with infrastructure, and continuously learning new technologies.
+
+Currently, I’m strengthening my skills in Python, Object-Oriented Programming, SQL, and Data Structures & Algorithms while building practical projects.
+
+
+👨‍💻 About Me
+💼 Network & IT Support Engineer
+🌐 Experience in Networking & System Operations
+🖥️ IT Support, PC Setup & Technical Troubleshooting
+🔧 Active Directory, Microsoft 365 & Intune
+🐍 Currently learning Python & OOP
+🗄️ Learning SQL & Database Management
+📚 Studying Data Structures & Algorithms
+🚀 Interested in IT Infrastructure, Automation & Programming
+
+🛠️ Professional Skills
+🌐 Networking
+CCNA
+LAN / WAN
+Network Troubleshooting
+MikroTik
+TCP/IP
+DNS
+🖥️ IT Support & Systems
+PC Setup & Kitting
+Hardware & Software Troubleshooting
+Active Directory
+Microsoft 365
+Exchange
+Intune
+File & Print Services
+💻 Operating Systems
+Windows
+Linux / Red Hat
+🐍 Programming & Database
+Python
+Object-Oriented Programming
+SQL
+HTML / CSS
+🏆 Certifications
+Cisco Certified Network Associate (CCNA) — 2024
+Red Hat Certified System Administrator (RHCSA) — Training
+📚 Currently Learning
+🐍 Python
+🧩 Object-Oriented Programming
+🧠 Data Structures & Algorithms
+🗄️ SQL & Database Management
+🚀 Featured Projects
+🍽️ Restaurant Order System
+
+Python OOP project focused on managing restaurant orders, products, and order information.
+
+📞 Phone Book
+
+Python CRUD project for managing contacts using Object-Oriented Programming.
+
+📚 Grade Book
+
+Python project for managing student information and grades.
+
+🎯 Career Focus
+
+I’m currently focused on developing my career in:
+
+IT Support • System Engineering • Networking • Infrastructure • Automation • Python
+
+I’m always interested in learning, building practical projects, and improving my technical skills.
+
+📫 Connect With Me
+
+💼 GitHub: Mortuza-cloude
+
+⭐ Feel free to explore my repositories and follow my learning journey!
 
 
 ## 🌐 Socials:
